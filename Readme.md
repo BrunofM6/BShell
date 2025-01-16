@@ -4,4 +4,4 @@ BShell is a project developed by Bruno Moreira of a basic shell to execute comma
 ## Usage
 On the comand line:
 - **`make`**: creates the executable file `bshell.exe`.
-- **clean**: cleans directory of bshell.
+- **`make clean`**: cleans directory of bshell.
